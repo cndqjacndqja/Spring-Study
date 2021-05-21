@@ -12,10 +12,12 @@
 
 5. [컴포넌트 스캔, 의존 관계 자동 주입](https://ttungbab.tistory.com/161)
 
-6. JPA 개념
+6. [Bean 생명주기, Bean 스코프](https://ttungbab.tistory.com/165)
 
-7. AOP
+7. JPA 개념
 
-8. 프록시, 프록시 패턴
+8. AOP
+
+9. 프록시, 프록시 패턴
 
    
