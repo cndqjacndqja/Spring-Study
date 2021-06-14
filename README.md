@@ -1,4 +1,4 @@
-# Spring 🎈
+# Spring Study
 
 1. [Servlet의 개념](https://ttungbab.tistory.com/148)
 
@@ -14,10 +14,6 @@
 
 6. [Bean 생명주기, Bean 스코프](https://ttungbab.tistory.com/165)
 
-7. JPA 개념
-
-8. AOP
-
-9. 프록시, 프록시 패턴
+7. [스프링 MVC 구조](https://ttungbab.tistory.com/182)
 
    
